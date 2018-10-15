@@ -1,0 +1,2 @@
+# GoogleScript
+Google Ads Script
