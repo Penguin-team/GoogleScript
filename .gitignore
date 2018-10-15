@@ -1,0 +1,6 @@
+.idea
+*.iml
+*.xml
+*.yaml
+.vs
+.vscode/*
